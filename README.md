@@ -17,9 +17,8 @@ the process
 3.8 Which surah are there verses(ayah) more than 200 verses ? 
 3.9 How many surah there verses(ayah) less than 10 or equal to 10? 
 3.10 Which surah there are verses(ayah) less than 10 verses or equal to 10 verse? 
-3.11 from the holy qur-an ,how many verses(ayah) for the surah that most short and long one? 
-3.11 from the holy qur-an ,how many verses(ayah) for the surah that most short and long one? 
-3.11 from the holy qur-an ,how many verses(ayah) for the surah that most short and long one? 
+3.11 Which surah there are verses(ayah) less than 10 verses or equal to 10 verse?, 
+3.12 from the holy qur-an ,how many verses(ayah) for the surah that most short and long one?
 4. Linkage table arabic,quran_surah and translation
 =======
 This project is  part of Big data and data warehouse course.  Which is managing data in database by using Olap-cube and postgreSql database program.
