@@ -17,4 +17,6 @@ the process
 3.9 How many surah there verses(ayah) less than 10 or equal to 10? 
 3.10 Which surah there are verses(ayah) less than 10 verses or equal to 10 verse? 
 3.11 from the holy qur-an ,how many verses(ayah) for the surah that most short and long one? 
+3.11 from the holy qur-an ,how many verses(ayah) for the surah that most short and long one? 
+3.11 from the holy qur-an ,how many verses(ayah) for the surah that most short and long one? 
 4. Linkage table arabic,quran_surah and translation
